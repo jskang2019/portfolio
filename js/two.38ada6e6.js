@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["two"],{d524:function(t,s,e){"use strict";e.r(s);var n=e("0798"),a=e("62ad"),r=e("0fd9"),i=function(){var t=this,s=t._self._c;return s(r["a"],{attrs:{justify:"center"}},[s(a["a"],{attrs:{sm:"6"}},[s(n["a"],{staticClass:"subtitle-2",attrs:{color:"cyan",border:"left",outlined:"",dense:"",icon:"mdi-twitter"}},[t._v(" 메뉴 아이템 #3 ")])],1)],1)},l=[],o=e("2877"),c={},u=Object(o["a"])(c,i,l,!1,null,null,null);s["default"]=u.exports}}]);
+//# sourceMappingURL=two.38ada6e6.js.map
